@@ -1,0 +1,2225 @@
+{
+    "frame_id": "20250906T003355",
+    "timestamp": 1757118835,
+    "nodes": {
+        "error": [],
+        "place": [
+            {
+                "id": 205447182163442303,
+                "logicpos": "QC107-5"
+            },
+            {
+                "id": 2549103672157150749,
+                "logicpos": "J01-27"
+            },
+            {
+                "id": 2699074658628134640,
+                "logicpos": "K04-25"
+            },
+            {
+                "id": 772219973783060271,
+                "logicpos": "K05-21"
+            },
+            {
+                "id": 2988214853708776303,
+                "logicpos": "QC108-3"
+            },
+            {
+                "id": 6950177069525938695,
+                "logicpos": "K01-57"
+            },
+            {
+                "id": 7634819019667227236,
+                "logicpos": "J03-25"
+            }
+        ],
+        "polyline": [
+            {
+                "congestion": "3",
+                "id": 398894332947489128,
+                "polylineId": "lanelet_562676",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "3"
+            },
+            {
+                "congestion": "5",
+                "id": 7950618681675213181,
+                "polylineId": "lanelet_562098",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "5"
+            },
+            {
+                "congestion": "1",
+                "id": 4002697099715819245,
+                "polylineId": "junction_634",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "7",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 4212023635811941583,
+                "polylineId": "junction_589",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "5",
+                "id": 1669761977044228007,
+                "polylineId": "lanelet_560942",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "5"
+            },
+            {
+                "congestion": "1",
+                "id": 5105807683176107432,
+                "polylineId": "lanelet_562656",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "0",
+                "id": 1858742828002512835,
+                "polylineId": "lanelet_77632",
+                "sourceTaskNum": "2",
+                "targetTaskNum": "0",
+                "vehicleNum": "0"
+            },
+            {
+                "congestion": "1",
+                "id": 1689159325474906913,
+                "polylineId": "lanelet_559794",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "2",
+                "id": 196717888473307092,
+                "polylineId": "lanelet_15408",
+                "sourceTaskNum": "3",
+                "targetTaskNum": "0",
+                "vehicleNum": "2"
+            },
+            {
+                "congestion": "1",
+                "id": 3616307195025005458,
+                "polylineId": "junction_725",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "5",
+                "id": 6575352476566045601,
+                "polylineId": "lanelet_562650",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "5"
+            },
+            {
+                "congestion": "1",
+                "id": 7156194345556954018,
+                "polylineId": "lanelet_574908",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 2134271667675162195,
+                "polylineId": "lanelet_812250",
+                "sourceTaskNum": "3",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 4986612472593151152,
+                "polylineId": "junction_25",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 496958214419043838,
+                "polylineId": "junction_451",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "3",
+                "id": 4215026212868677054,
+                "polylineId": "lanelet_562072",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "3"
+            },
+            {
+                "congestion": "1",
+                "id": 9119414921019191276,
+                "polylineId": "junction_57",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 7185549637300286904,
+                "polylineId": "junction_504",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 4912999297710931717,
+                "polylineId": "lanelet_104996",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "2",
+                "id": 4243227870053074822,
+                "polylineId": "lanelet_564279",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "2"
+            },
+            {
+                "congestion": "0",
+                "id": 3072216068607981945,
+                "polylineId": "junction_354",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "1",
+                "vehicleNum": "0"
+            },
+            {
+                "congestion": "1",
+                "id": 766766677573157404,
+                "polylineId": "lanelet_860684",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 8952195860969346946,
+                "polylineId": "junction_500",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 2960032275116960878,
+                "polylineId": "lanelet_560387",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 4966062684181473205,
+                "polylineId": "junction_637",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 8981625097053904658,
+                "polylineId": "lanelet_308360",
+                "sourceTaskNum": "1",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 8627063404871380910,
+                "polylineId": "lanelet_185486",
+                "sourceTaskNum": "1",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            },
+            {
+                "congestion": "1",
+                "id": 7683204320398904968,
+                "polylineId": "junction_79",
+                "sourceTaskNum": "0",
+                "targetTaskNum": "0",
+                "vehicleNum": "1"
+            }
+        ],
+        "task": [
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 1199219229107597310,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "574"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 2261925805850731446,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "573"
+            },
+            {
+                "batchName": "LYGU6232979TGBU2124747119561075",
+                "containerNum": 2,
+                "containerPos": "full",
+                "costEnergy": 0.0,
+                "etaTime": 728.0,
+                "haveCancel": 0,
+                "haveCnt": true,
+                "id": 4586254216394555508,
+                "jobType": "DELIVER",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-06T00:23:36.601",
+                "spanTime": 619.0,
+                "vehicleId": "577"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 643505860324432718,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "572"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 108049560183760375,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "578"
+            },
+            {
+                "batchName": "SEGU3296554SEGU3293679118838311",
+                "containerNum": 2,
+                "containerPos": "full",
+                "costEnergy": 0.0,
+                "etaTime": 0.0,
+                "haveCancel": 0,
+                "haveCnt": true,
+                "id": 5561390202590385466,
+                "jobType": "DELIVER",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-05T23:43:06.395",
+                "orderStop": "2025-09-06T00:33:55.986",
+                "spanTime": 3049.0,
+                "vehicleId": "571"
+            },
+            {
+                "batchName": "TGBU2052550SEGU3314874123367591",
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "etaTime": 4546.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 1549467152171490704,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-06T00:27:17.598",
+                "spanTime": 398.0,
+                "vehicleId": "579"
+            },
+            {
+                "batchName": "SEKU1058973TGBU2256511120784899",
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "etaTime": 1961.0,
+                "haveCancel": 2,
+                "haveCnt": false,
+                "id": 2868977891561673695,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-05T23:39:45.539",
+                "spanTime": 3250.0,
+                "vehicleId": "588"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 944497539322607463,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "560"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 2946521585033877461,
+                "jobType": "DELIVER",
+                "miles": 0.0,
+                "movementType": "Load",
+                "vehicleId": "576"
+            },
+            {
+                "batchName": "SEGU2328512SEGU3419330120352264",
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "etaTime": 1521.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 6264481172645605173,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-06T00:25:06.199",
+                "spanTime": 529.0,
+                "vehicleId": "562"
+            },
+            {
+                "batchName": "SEGU3358358LYGU6294899124806579",
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "etaTime": 5984.0,
+                "haveCancel": 2,
+                "haveCnt": false,
+                "id": 4511790031356496971,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-05T23:42:50.217",
+                "spanTime": 3065.0,
+                "vehicleId": "584"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 3005540360096098516,
+                "jobType": "DELIVER",
+                "miles": 0.0,
+                "movementType": "Load",
+                "vehicleId": "583"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 598189561130457665,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "566"
+            },
+            {
+                "batchName": "SEGU3354537TGBU2050161122345238",
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "etaTime": 3514.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 2781314752192304157,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-06T00:27:10.148",
+                "spanTime": 405.0,
+                "vehicleId": "563"
+            },
+            {
+                "batchName": "LYGU6247243TGBU2028342119447145",
+                "containerNum": 2,
+                "containerPos": "full",
+                "costEnergy": 0.0,
+                "etaTime": 615.0,
+                "haveCancel": 0,
+                "haveCnt": true,
+                "id": 3186914310919942399,
+                "jobType": "DELIVER",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-06T00:23:25.957",
+                "spanTime": 630.0,
+                "vehicleId": "598"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 2192235142909166959,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "570"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 7616239130814281276,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "559"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 2882756052622559306,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "552"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 6380627848614203715,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "587"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 6006897776984948743,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "580"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 7818624940111710956,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "593"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 5166398543875375154,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "555"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 4532895887445190613,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "594"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 1836999896411579075,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "556"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 1605521563767035442,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "558"
+            },
+            {
+                "batchName": "TGBU2300609LYGU6294899120452252",
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "etaTime": 1634.0,
+                "haveCancel": 2,
+                "haveCnt": false,
+                "id": 8078649845623379819,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-05T23:36:29.802",
+                "spanTime": 3446.0,
+                "vehicleId": "591"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 2627232189308244036,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "557"
+            },
+            {
+                "batchName": "SEGU3311957SEGU3296997119304416",
+                "containerNum": 2,
+                "containerPos": "full",
+                "costEnergy": 0.0,
+                "etaTime": 471.0,
+                "haveCancel": 0,
+                "haveCnt": true,
+                "id": 689959137733811214,
+                "jobType": "DELIVER",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-05T23:30:54.454",
+                "spanTime": 3781.0,
+                "vehicleId": "551"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 996902863332199404,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "592"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 8297607398952735659,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "550"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 8468524850352126391,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "569"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 6044827425599248067,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "597"
+            },
+            {
+                "batchName": "TGBU2303634TGBU2120778119261977",
+                "containerNum": 2,
+                "containerPos": "full",
+                "costEnergy": 0.0,
+                "etaTime": 435.0,
+                "haveCancel": 0,
+                "haveCnt": true,
+                "id": 8973819940369357620,
+                "jobType": "DELIVER",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-05T23:48:47.889",
+                "spanTime": 2708.0,
+                "vehicleId": "581"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 2399783426575921028,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "553"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 1250327188913913547,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "590"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 3744015140312729206,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "595"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 5016905085737493607,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "567"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 3936335226217208787,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "565"
+            },
+            {
+                "batchName": "SEGU3291510TGBU2128059119070078",
+                "containerNum": 2,
+                "containerPos": "full",
+                "costEnergy": 0.0,
+                "etaTime": 243.0,
+                "haveCancel": 0,
+                "haveCnt": true,
+                "id": 5219532794273626915,
+                "jobType": "DELIVER",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-05T23:44:19.938",
+                "spanTime": 2976.0,
+                "vehicleId": "586"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 3068113038090443242,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "585"
+            },
+            {
+                "batchName": "SEGU3366060SEGU3344061120461704",
+                "containerNum": 1,
+                "containerPos": "front",
+                "costEnergy": 0.0,
+                "etaTime": 1634.0,
+                "haveCancel": 0,
+                "haveCnt": true,
+                "id": 4354036576836338224,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-06T00:23:25.611",
+                "spanTime": 630.0,
+                "vehicleId": "564"
+            },
+            {
+                "batchName": "ITGU1078742SEGU2362923120661850",
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "etaTime": 1820.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 8935692185926640156,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-05T23:32:48.326",
+                "spanTime": 3667.0,
+                "vehicleId": "599"
+            },
+            {
+                "batchName": "SEGU3365629TGBU2303552119904118",
+                "containerNum": 1,
+                "containerPos": "front",
+                "costEnergy": 0.0,
+                "etaTime": 1073.0,
+                "haveCancel": 0,
+                "haveCnt": true,
+                "id": 8449248841698930268,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "orderStart": "2025-09-06T00:23:36.726",
+                "spanTime": 619.0,
+                "vehicleId": "589"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 3790117115089335185,
+                "jobType": "RECEIVE",
+                "miles": 0.0,
+                "movementType": "Load",
+                "vehicleId": "596"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 5709178042618061323,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "554"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 4054384447797117213,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "582"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 3551253843862079616,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "575"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 7064831972073923599,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "568"
+            },
+            {
+                "containerNum": 0,
+                "containerPos": "",
+                "costEnergy": 0.0,
+                "haveCancel": 0,
+                "haveCnt": false,
+                "id": 6842793300717264780,
+                "jobType": "",
+                "miles": 0.0,
+                "movementType": "idle",
+                "vehicleId": "561"
+            }
+        ],
+        "vehicle": [
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 28137721594678016,
+                "laneChangeState": 0.0,
+                "mileageDistance": 8999000.0,
+                "soc": 61.6,
+                "speed": 0.0,
+                "vehicleId": "574",
+                "x": 465.9485,
+                "y": 172.65971
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "true",
+                "id": 3229033262005458538,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9474000.0,
+                "soc": 57.6,
+                "speed": 0.0,
+                "vehicleId": "573",
+                "x": 361.93835,
+                "y": 151.52098
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 8356437621706656797,
+                "laneChangeState": 0.0,
+                "mileageDistance": 6033000.0,
+                "soc": 50.0,
+                "speed": 14.161896,
+                "vehicleId": "577",
+                "x": 609.7367,
+                "y": 560.8263
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 4981631447722735431,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9128000.0,
+                "soc": 98.8,
+                "speed": 0.0,
+                "vehicleId": "572",
+                "x": 309.91614,
+                "y": 159.58958
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 6742106127083246267,
+                "laneChangeState": 0.0,
+                "mileageDistance": 6157000.0,
+                "soc": 95.2,
+                "speed": 0.0,
+                "vehicleId": "578",
+                "x": 501.1232,
+                "y": 168.68755
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 2703257248005636773,
+                "laneChangeState": 0.0,
+                "mileageDistance": 7401000.0,
+                "soc": 62.0,
+                "speed": 0.0,
+                "vehicleId": "571",
+                "x": 537.0741,
+                "y": 605.3412
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 2259718099583024811,
+                "laneChangeState": 0.0,
+                "mileageDistance": 911000.0,
+                "soc": 68.0,
+                "speed": 0.0,
+                "vehicleId": "579",
+                "x": 491.5106,
+                "y": 176.60797
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 7577247645459201978,
+                "laneChangeState": 0.0,
+                "mileageDistance": 964000.0,
+                "soc": 62.0,
+                "speed": 0.0,
+                "vehicleId": "588",
+                "x": 584.41345,
+                "y": 410.786
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 168068213592219047,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9995000.0,
+                "soc": 95.2,
+                "speed": 0.0,
+                "vehicleId": "560",
+                "x": 470.35812,
+                "y": 168.70479
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 3961138518832473186,
+                "laneChangeState": 0.0,
+                "mileageDistance": 7408000.0,
+                "soc": 66.4,
+                "speed": 0.0,
+                "vehicleId": "576",
+                "x": 460.64316,
+                "y": 584.1787
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 5104020079758249538,
+                "laneChangeState": 0.0,
+                "mileageDistance": 7790000.0,
+                "soc": 54.8,
+                "speed": 0.0,
+                "vehicleId": "562",
+                "x": 588.2624,
+                "y": 393.83292
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 8902967682827680516,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1293000.0,
+                "soc": 66.0,
+                "speed": 0.0,
+                "vehicleId": "584",
+                "x": 556.9162,
+                "y": 410.85947
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 7746549366784307788,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1067000.0,
+                "soc": 72.8,
+                "speed": 0.0,
+                "vehicleId": "583",
+                "x": 476.66608,
+                "y": 605.1206
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 5003140727512121894,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9046000.0,
+                "soc": 52.8,
+                "speed": 0.0,
+                "vehicleId": "566",
+                "x": 387.9286,
+                "y": 155.52798
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 8676757950861815602,
+                "laneChangeState": 0.0,
+                "mileageDistance": 8751000.0,
+                "soc": 47.6,
+                "speed": 0.0,
+                "vehicleId": "563",
+                "x": 519.9355,
+                "y": 176.62218
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 8454674543827498538,
+                "laneChangeState": 0.0,
+                "mileageDistance": 679000.0,
+                "soc": 74.8,
+                "speed": 0.0,
+                "vehicleId": "598",
+                "x": 602.2166,
+                "y": 605.3418
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 2560233104605309777,
+                "laneChangeState": 0.0,
+                "mileageDistance": 8615000.0,
+                "soc": 98.8,
+                "speed": 0.0,
+                "vehicleId": "570",
+                "x": 308.3977,
+                "y": 168.75047
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 4830766000796005169,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9743000.0,
+                "soc": 94.8,
+                "speed": 0.0,
+                "vehicleId": "559",
+                "x": 498.04526,
+                "y": 159.53099
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 5920082476675204273,
+                "laneChangeState": 0.0,
+                "mileageDistance": 7053000.0,
+                "soc": 74.8,
+                "speed": 0.0,
+                "vehicleId": "552",
+                "x": 259.5958,
+                "y": 149.39688
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 3303157321356617779,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1018000.0,
+                "soc": 96.0,
+                "speed": 0.0,
+                "vehicleId": "587",
+                "x": 442.53397,
+                "y": 168.69911
+            },
+            {
+                "chargeStatus": 0.0,
+                "chasisMode": 0.0,
+                "estop": "",
+                "id": 4937627419582679298,
+                "laneChangeState": 0.0,
+                "mileageDistance": 0.0,
+                "soc": 0.0,
+                "speed": 0.0,
+                "vehicleId": "580",
+                "x": 0.0,
+                "y": 0.0
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 3522750632854453710,
+                "laneChangeState": 0.0,
+                "mileageDistance": 710000.0,
+                "soc": 98.0,
+                "speed": 0.0,
+                "vehicleId": "593",
+                "x": 336.2571,
+                "y": 168.70056
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 8038475137420519590,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9303000.0,
+                "soc": 96.0,
+                "speed": 0.0,
+                "vehicleId": "555",
+                "x": 442.6208,
+                "y": 159.60526
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 2557592112101547112,
+                "laneChangeState": 0.0,
+                "mileageDistance": 712000.0,
+                "soc": 88.8,
+                "speed": 0.0,
+                "vehicleId": "594",
+                "x": -8.149787,
+                "y": 76.3115
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "true",
+                "id": 8283806211958058442,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9049000.0,
+                "soc": 70.8,
+                "speed": 0.0,
+                "vehicleId": "556",
+                "x": 297.80695,
+                "y": 151.6111
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 7189164640449467849,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9288000.0,
+                "soc": 50.8,
+                "speed": 0.0,
+                "vehicleId": "558",
+                "x": 387.9589,
+                "y": 151.49702
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 7791773945204098289,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1405000.0,
+                "soc": 80.0,
+                "speed": 0.0,
+                "vehicleId": "591",
+                "x": 612.1233,
+                "y": 410.763
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 6111941035765940992,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9035000.0,
+                "soc": 98.4,
+                "speed": 0.0,
+                "vehicleId": "557",
+                "x": 337.55847,
+                "y": 159.60527
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 848063964191974045,
+                "laneChangeState": 0.0,
+                "mileageDistance": 3480000.0,
+                "soc": 49.2,
+                "speed": 0.0,
+                "vehicleId": "551",
+                "x": 224.59544,
+                "y": 506.27655
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 3231862297065411977,
+                "laneChangeState": 0.0,
+                "mileageDistance": 786000.0,
+                "soc": 60.0,
+                "speed": 0.0,
+                "vehicleId": "592",
+                "x": 438.2383,
+                "y": 172.69324
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 3.0,
+                "estop": "true",
+                "id": 6337364114391193381,
+                "laneChangeState": 0.0,
+                "mileageDistance": 696000.0,
+                "soc": 78.0,
+                "speed": 0.0,
+                "vehicleId": "550",
+                "x": -6.4251175,
+                "y": 93.538994
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 408667990054387945,
+                "laneChangeState": 0.0,
+                "mileageDistance": 4074000.0,
+                "soc": 79.6,
+                "speed": 0.0,
+                "vehicleId": "569",
+                "x": 413.9515,
+                "y": 155.54124
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 7526977528453491278,
+                "laneChangeState": 0.0,
+                "mileageDistance": 372000.0,
+                "soc": 88.8,
+                "speed": 0.0,
+                "vehicleId": "597",
+                "x": 410.47894,
+                "y": 172.75732
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 5814589224459927075,
+                "laneChangeState": 0.0,
+                "mileageDistance": 894000.0,
+                "soc": 70.8,
+                "speed": 0.0,
+                "vehicleId": "581",
+                "x": 581.1359,
+                "y": 605.3212
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 3.0,
+                "estop": "true",
+                "id": 120685102400892475,
+                "laneChangeState": 0.0,
+                "mileageDistance": 7496000.0,
+                "soc": 45.2,
+                "speed": 0.0,
+                "vehicleId": "553",
+                "x": 338.17725,
+                "y": 151.38495
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 7223945369225963858,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1223000.0,
+                "soc": 98.0,
+                "speed": 0.0,
+                "vehicleId": "590",
+                "x": 364.18924,
+                "y": 168.73352
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 7277796608755774099,
+                "laneChangeState": 0.0,
+                "mileageDistance": 645000.0,
+                "soc": 96.0,
+                "speed": 0.0,
+                "vehicleId": "595",
+                "x": 470.415,
+                "y": 159.40201
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 121043304653486666,
+                "laneChangeState": 0.0,
+                "mileageDistance": 8483000.0,
+                "soc": 75.6,
+                "speed": 0.0,
+                "vehicleId": "567",
+                "x": 439.94302,
+                "y": 155.5426
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 8259103913944358294,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9582000.0,
+                "soc": 98.0,
+                "speed": 0.0,
+                "vehicleId": "565",
+                "x": 280.69562,
+                "y": 168.72739
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 2809343087416161487,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1221000.0,
+                "soc": 44.0,
+                "speed": 0.0,
+                "vehicleId": "586",
+                "x": 559.8605,
+                "y": 605.3124
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 4864370743344776489,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1463000.0,
+                "soc": 96.8,
+                "speed": 0.0,
+                "vehicleId": "585",
+                "x": 427.4054,
+                "y": 151.42345
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 4929170719611547335,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9118000.0,
+                "soc": 70.0,
+                "speed": 0.0,
+                "vehicleId": "564",
+                "x": 751.3729,
+                "y": 544.1216
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 7703322028657959103,
+                "laneChangeState": 0.0,
+                "mileageDistance": 371000.0,
+                "soc": 80.0,
+                "speed": 13.696236,
+                "vehicleId": "599",
+                "x": 879.8676,
+                "y": 410.7456
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 5393335827370737810,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1012000.0,
+                "soc": 60.8,
+                "speed": 3.3918083,
+                "vehicleId": "589",
+                "x": 327.23053,
+                "y": 469.20477
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 1.0,
+                "estop": "false",
+                "id": 8871936825510503195,
+                "laneChangeState": 0.0,
+                "mileageDistance": 580000.0,
+                "soc": 58.8,
+                "speed": 3.4182107,
+                "vehicleId": "596",
+                "x": 208.81007,
+                "y": 412.65067
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 204478431085601236,
+                "laneChangeState": 0.0,
+                "mileageDistance": 8912000.0,
+                "soc": 95.6,
+                "speed": 0.0,
+                "vehicleId": "554",
+                "x": 243.57375,
+                "y": 157.49161
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 1.0,
+                "estop": "true",
+                "id": 2509080678394020271,
+                "laneChangeState": 0.0,
+                "mileageDistance": 1026000.0,
+                "soc": 92.0,
+                "speed": 0.0,
+                "vehicleId": "582",
+                "x": 449.58472,
+                "y": 151.39603
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 3.0,
+                "estop": "true",
+                "id": 6471793904538763036,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9353000.0,
+                "soc": 84.0,
+                "speed": 0.0,
+                "vehicleId": "575",
+                "x": -7.1728106,
+                "y": 87.21349
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 1333189893194708517,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9263000.0,
+                "soc": 76.8,
+                "speed": 0.0,
+                "vehicleId": "568",
+                "x": 317.44205,
+                "y": 151.60353
+            },
+            {
+                "chargeStatus": 4.0,
+                "chasisMode": 2.0,
+                "estop": "false",
+                "id": 8972185715258724818,
+                "laneChangeState": 0.0,
+                "mileageDistance": 9216000.0,
+                "soc": 97.6,
+                "speed": 0.0,
+                "vehicleId": "561",
+                "x": 365.3055,
+                "y": 159.75992
+            }
+        ]
+    },
+    "edges": {
+        "error_polyline": [],
+        "task_place": [
+            {
+                "dst_placeId": 205447182163442303,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 4586254216394555508
+            },
+            {
+                "dst_placeId": 205447182163442303,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 5561390202590385466
+            },
+            {
+                "dst_placeId": 2549103672157150749,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 1549467152171490704
+            },
+            {
+                "dst_placeId": 2699074658628134640,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 2868977891561673695
+            },
+            {
+                "dst_placeId": 772219973783060271,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 6264481172645605173
+            },
+            {
+                "dst_placeId": 2699074658628134640,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 4511790031356496971
+            },
+            {
+                "dst_placeId": 2549103672157150749,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 2781314752192304157
+            },
+            {
+                "dst_placeId": 205447182163442303,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 3186914310919942399
+            },
+            {
+                "dst_placeId": 2699074658628134640,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 8078649845623379819
+            },
+            {
+                "dst_placeId": 2988214853708776303,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 689959137733811214
+            },
+            {
+                "dst_placeId": 205447182163442303,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 8973819940369357620
+            },
+            {
+                "dst_placeId": 205447182163442303,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 5219532794273626915
+            },
+            {
+                "dst_placeId": 6950177069525938695,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 4354036576836338224
+            },
+            {
+                "dst_placeId": 772219973783060271,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 8935692185926640156
+            },
+            {
+                "dst_placeId": 7634819019667227236,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 8449248841698930268
+            }
+        ],
+        "task_polyline": [
+            {
+                "dst_ploylineId": 4002697099715819245,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 4586254216394555508
+            },
+            {
+                "dst_ploylineId": 4002697099715819245,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 5561390202590385466
+            },
+            {
+                "dst_ploylineId": 1858742828002512835,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 1549467152171490704
+            },
+            {
+                "dst_ploylineId": 196717888473307092,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 2868977891561673695
+            },
+            {
+                "dst_ploylineId": 4002697099715819245,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 2946521585033877461
+            },
+            {
+                "dst_ploylineId": 2134271667675162195,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 6264481172645605173
+            },
+            {
+                "dst_ploylineId": 196717888473307092,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 4511790031356496971
+            },
+            {
+                "dst_ploylineId": 4002697099715819245,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 3005540360096098516
+            },
+            {
+                "dst_ploylineId": 1858742828002512835,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 2781314752192304157
+            },
+            {
+                "dst_ploylineId": 4002697099715819245,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 3186914310919942399
+            },
+            {
+                "dst_ploylineId": 196717888473307092,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 8078649845623379819
+            },
+            {
+                "dst_ploylineId": 3072216068607981945,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 689959137733811214
+            },
+            {
+                "dst_ploylineId": 4002697099715819245,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 8973819940369357620
+            },
+            {
+                "dst_ploylineId": 4002697099715819245,
+                "relation": "TASK_TARGET_IN",
+                "src_taskId": 5219532794273626915
+            },
+            {
+                "dst_ploylineId": 8981625097053904658,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 4354036576836338224
+            },
+            {
+                "dst_ploylineId": 2134271667675162195,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 8935692185926640156
+            },
+            {
+                "dst_ploylineId": 8627063404871380910,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 8449248841698930268
+            },
+            {
+                "dst_ploylineId": 2134271667675162195,
+                "relation": "TASK_SOURCE_IN",
+                "src_taskId": 3790117115089335185
+            }
+        ],
+        "vehicle_error": [],
+        "vehicle_polyline": [
+            {
+                "dst_ploylineId": 398894332947489128,
+                "relation": "STAY",
+                "src_vehicleId": 28137721594678016
+            },
+            {
+                "dst_ploylineId": 7950618681675213181,
+                "relation": "STAY",
+                "src_vehicleId": 3229033262005458538
+            },
+            {
+                "dst_ploylineId": 4212023635811941583,
+                "relation": "IN",
+                "src_vehicleId": 8356437621706656797
+            },
+            {
+                "dst_ploylineId": 1669761977044228007,
+                "relation": "STAY",
+                "src_vehicleId": 4981631447722735431
+            },
+            {
+                "dst_ploylineId": 5105807683176107432,
+                "relation": "STAY",
+                "src_vehicleId": 6742106127083246267
+            },
+            {
+                "dst_ploylineId": 4002697099715819245,
+                "relation": "STAY",
+                "src_vehicleId": 2703257248005636773
+            },
+            {
+                "dst_ploylineId": 1689159325474906913,
+                "relation": "STAY",
+                "src_vehicleId": 2259718099583024811
+            },
+            {
+                "dst_ploylineId": 3616307195025005458,
+                "relation": "STAY",
+                "src_vehicleId": 7577247645459201978
+            },
+            {
+                "dst_ploylineId": 6575352476566045601,
+                "relation": "STAY",
+                "src_vehicleId": 168068213592219047
+            },
+            {
+                "dst_ploylineId": 7156194345556954018,
+                "relation": "STAY",
+                "src_vehicleId": 3961138518832473186
+            },
+            {
+                "dst_ploylineId": 2134271667675162195,
+                "relation": "STAY",
+                "src_vehicleId": 5104020079758249538
+            },
+            {
+                "dst_ploylineId": 4986612472593151152,
+                "relation": "STAY",
+                "src_vehicleId": 8902967682827680516
+            },
+            {
+                "dst_ploylineId": 496958214419043838,
+                "relation": "STAY",
+                "src_vehicleId": 7746549366784307788
+            },
+            {
+                "dst_ploylineId": 4215026212868677054,
+                "relation": "STAY",
+                "src_vehicleId": 5003140727512121894
+            },
+            {
+                "dst_ploylineId": 9119414921019191276,
+                "relation": "STAY",
+                "src_vehicleId": 8676757950861815602
+            },
+            {
+                "dst_ploylineId": 7185549637300286904,
+                "relation": "STAY",
+                "src_vehicleId": 8454674543827498538
+            },
+            {
+                "dst_ploylineId": 6575352476566045601,
+                "relation": "STAY",
+                "src_vehicleId": 2560233104605309777
+            },
+            {
+                "dst_ploylineId": 4912999297710931717,
+                "relation": "STAY",
+                "src_vehicleId": 4830766000796005169
+            },
+            {
+                "dst_ploylineId": 6575352476566045601,
+                "relation": "STAY",
+                "src_vehicleId": 3303157321356617779
+            },
+            {
+                "dst_ploylineId": 6575352476566045601,
+                "relation": "STAY",
+                "src_vehicleId": 3522750632854453710
+            },
+            {
+                "dst_ploylineId": 1669761977044228007,
+                "relation": "STAY",
+                "src_vehicleId": 8038475137420519590
+            },
+            {
+                "dst_ploylineId": 4243227870053074822,
+                "relation": "STAY",
+                "src_vehicleId": 8283806211958058442
+            },
+            {
+                "dst_ploylineId": 7950618681675213181,
+                "relation": "STAY",
+                "src_vehicleId": 7189164640449467849
+            },
+            {
+                "dst_ploylineId": 196717888473307092,
+                "relation": "STAY",
+                "src_vehicleId": 7791773945204098289
+            },
+            {
+                "dst_ploylineId": 1669761977044228007,
+                "relation": "STAY",
+                "src_vehicleId": 6111941035765940992
+            },
+            {
+                "dst_ploylineId": 766766677573157404,
+                "relation": "STAY",
+                "src_vehicleId": 848063964191974045
+            },
+            {
+                "dst_ploylineId": 398894332947489128,
+                "relation": "STAY",
+                "src_vehicleId": 3231862297065411977
+            },
+            {
+                "dst_ploylineId": 4215026212868677054,
+                "relation": "STAY",
+                "src_vehicleId": 408667990054387945
+            },
+            {
+                "dst_ploylineId": 398894332947489128,
+                "relation": "STAY",
+                "src_vehicleId": 7526977528453491278
+            },
+            {
+                "dst_ploylineId": 8952195860969346946,
+                "relation": "STAY",
+                "src_vehicleId": 5814589224459927075
+            },
+            {
+                "dst_ploylineId": 7950618681675213181,
+                "relation": "STAY",
+                "src_vehicleId": 120685102400892475
+            },
+            {
+                "dst_ploylineId": 6575352476566045601,
+                "relation": "STAY",
+                "src_vehicleId": 7223945369225963858
+            },
+            {
+                "dst_ploylineId": 1669761977044228007,
+                "relation": "STAY",
+                "src_vehicleId": 7277796608755774099
+            },
+            {
+                "dst_ploylineId": 4215026212868677054,
+                "relation": "STAY",
+                "src_vehicleId": 121043304653486666
+            },
+            {
+                "dst_ploylineId": 2960032275116960878,
+                "relation": "STAY",
+                "src_vehicleId": 8259103913944358294
+            },
+            {
+                "dst_ploylineId": 4966062684181473205,
+                "relation": "STAY",
+                "src_vehicleId": 2809343087416161487
+            },
+            {
+                "dst_ploylineId": 7950618681675213181,
+                "relation": "STAY",
+                "src_vehicleId": 4864370743344776489
+            },
+            {
+                "dst_ploylineId": 8981625097053904658,
+                "relation": "STAY",
+                "src_vehicleId": 4929170719611547335
+            },
+            {
+                "dst_ploylineId": 196717888473307092,
+                "relation": "IN",
+                "src_vehicleId": 7703322028657959103
+            },
+            {
+                "dst_ploylineId": 8627063404871380910,
+                "relation": "IN",
+                "src_vehicleId": 5393335827370737810
+            },
+            {
+                "dst_ploylineId": 7683204320398904968,
+                "relation": "IN",
+                "src_vehicleId": 8871936825510503195
+            },
+            {
+                "dst_ploylineId": 7950618681675213181,
+                "relation": "STAY",
+                "src_vehicleId": 2509080678394020271
+            },
+            {
+                "dst_ploylineId": 4243227870053074822,
+                "relation": "STAY",
+                "src_vehicleId": 1333189893194708517
+            },
+            {
+                "dst_ploylineId": 1669761977044228007,
+                "relation": "STAY",
+                "src_vehicleId": 8972185715258724818
+            }
+        ],
+        "vehicle_task": [
+            {
+                "dst_taskId": 1199219229107597310,
+                "jobStage": "|",
+                "src_vehicleId": 28137721594678016
+            },
+            {
+                "dst_taskId": 2261925805850731446,
+                "jobStage": "|",
+                "src_vehicleId": 3229033262005458538
+            },
+            {
+                "dst_taskId": 4586254216394555508,
+                "jobStage": "DELIVER|LEFT_ORIGIN_1",
+                "src_vehicleId": 8356437621706656797
+            },
+            {
+                "dst_taskId": 643505860324432718,
+                "jobStage": "|",
+                "src_vehicleId": 4981631447722735431
+            },
+            {
+                "dst_taskId": 108049560183760375,
+                "jobStage": "|",
+                "src_vehicleId": 6742106127083246267
+            },
+            {
+                "dst_taskId": 5561390202590385466,
+                "jobStage": "DELIVER|CNTR_COMPLETED_1",
+                "src_vehicleId": 2703257248005636773
+            },
+            {
+                "dst_taskId": 1549467152171490704,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 2259718099583024811
+            },
+            {
+                "dst_taskId": 2868977891561673695,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 7577247645459201978
+            },
+            {
+                "dst_taskId": 944497539322607463,
+                "jobStage": "|",
+                "src_vehicleId": 168068213592219047
+            },
+            {
+                "dst_taskId": 2946521585033877461,
+                "jobStage": "DELIVER|COMPLETED",
+                "src_vehicleId": 3961138518832473186
+            },
+            {
+                "dst_taskId": 6264481172645605173,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 5104020079758249538
+            },
+            {
+                "dst_taskId": 4511790031356496971,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 8902967682827680516
+            },
+            {
+                "dst_taskId": 3005540360096098516,
+                "jobStage": "DELIVER|COMPLETED",
+                "src_vehicleId": 7746549366784307788
+            },
+            {
+                "dst_taskId": 598189561130457665,
+                "jobStage": "|",
+                "src_vehicleId": 5003140727512121894
+            },
+            {
+                "dst_taskId": 2781314752192304157,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 8676757950861815602
+            },
+            {
+                "dst_taskId": 3186914310919942399,
+                "jobStage": "DELIVER|LEFT_ORIGIN_1",
+                "src_vehicleId": 8454674543827498538
+            },
+            {
+                "dst_taskId": 2192235142909166959,
+                "jobStage": "|",
+                "src_vehicleId": 2560233104605309777
+            },
+            {
+                "dst_taskId": 7616239130814281276,
+                "jobStage": "|",
+                "src_vehicleId": 4830766000796005169
+            },
+            {
+                "dst_taskId": 2882756052622559306,
+                "jobStage": "|",
+                "src_vehicleId": 5920082476675204273
+            },
+            {
+                "dst_taskId": 6380627848614203715,
+                "jobStage": "|",
+                "src_vehicleId": 3303157321356617779
+            },
+            {
+                "dst_taskId": 6006897776984948743,
+                "jobStage": "|",
+                "src_vehicleId": 4937627419582679298
+            },
+            {
+                "dst_taskId": 7818624940111710956,
+                "jobStage": "|",
+                "src_vehicleId": 3522750632854453710
+            },
+            {
+                "dst_taskId": 5166398543875375154,
+                "jobStage": "|",
+                "src_vehicleId": 8038475137420519590
+            },
+            {
+                "dst_taskId": 4532895887445190613,
+                "jobStage": "|",
+                "src_vehicleId": 2557592112101547112
+            },
+            {
+                "dst_taskId": 1836999896411579075,
+                "jobStage": "|",
+                "src_vehicleId": 8283806211958058442
+            },
+            {
+                "dst_taskId": 1605521563767035442,
+                "jobStage": "|",
+                "src_vehicleId": 7189164640449467849
+            },
+            {
+                "dst_taskId": 8078649845623379819,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 7791773945204098289
+            },
+            {
+                "dst_taskId": 2627232189308244036,
+                "jobStage": "|",
+                "src_vehicleId": 6111941035765940992
+            },
+            {
+                "dst_taskId": 689959137733811214,
+                "jobStage": "DELIVER|LEFT_ORIGIN_1",
+                "src_vehicleId": 848063964191974045
+            },
+            {
+                "dst_taskId": 996902863332199404,
+                "jobStage": "|",
+                "src_vehicleId": 3231862297065411977
+            },
+            {
+                "dst_taskId": 8297607398952735659,
+                "jobStage": "|",
+                "src_vehicleId": 6337364114391193381
+            },
+            {
+                "dst_taskId": 8468524850352126391,
+                "jobStage": "|",
+                "src_vehicleId": 408667990054387945
+            },
+            {
+                "dst_taskId": 6044827425599248067,
+                "jobStage": "|",
+                "src_vehicleId": 7526977528453491278
+            },
+            {
+                "dst_taskId": 8973819940369357620,
+                "jobStage": "DELIVER|LEFT_ORIGIN_1",
+                "src_vehicleId": 5814589224459927075
+            },
+            {
+                "dst_taskId": 2399783426575921028,
+                "jobStage": "|",
+                "src_vehicleId": 120685102400892475
+            },
+            {
+                "dst_taskId": 1250327188913913547,
+                "jobStage": "|",
+                "src_vehicleId": 7223945369225963858
+            },
+            {
+                "dst_taskId": 3744015140312729206,
+                "jobStage": "|",
+                "src_vehicleId": 7277796608755774099
+            },
+            {
+                "dst_taskId": 5016905085737493607,
+                "jobStage": "|",
+                "src_vehicleId": 121043304653486666
+            },
+            {
+                "dst_taskId": 3936335226217208787,
+                "jobStage": "|",
+                "src_vehicleId": 8259103913944358294
+            },
+            {
+                "dst_taskId": 5219532794273626915,
+                "jobStage": "DELIVER|LEFT_ORIGIN_1",
+                "src_vehicleId": 2809343087416161487
+            },
+            {
+                "dst_taskId": 3068113038090443242,
+                "jobStage": "|",
+                "src_vehicleId": 4864370743344776489
+            },
+            {
+                "dst_taskId": 4354036576836338224,
+                "jobStage": "RECEIVE|FINETUNING_COMPLETED_1",
+                "src_vehicleId": 4929170719611547335
+            },
+            {
+                "dst_taskId": 8935692185926640156,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 7703322028657959103
+            },
+            {
+                "dst_taskId": 8449248841698930268,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 5393335827370737810
+            },
+            {
+                "dst_taskId": 3790117115089335185,
+                "jobStage": "RECEIVE|LEFT_ORIGIN_1",
+                "src_vehicleId": 8871936825510503195
+            },
+            {
+                "dst_taskId": 5709178042618061323,
+                "jobStage": "|",
+                "src_vehicleId": 204478431085601236
+            },
+            {
+                "dst_taskId": 4054384447797117213,
+                "jobStage": "|",
+                "src_vehicleId": 2509080678394020271
+            },
+            {
+                "dst_taskId": 3551253843862079616,
+                "jobStage": "|",
+                "src_vehicleId": 6471793904538763036
+            },
+            {
+                "dst_taskId": 7064831972073923599,
+                "jobStage": "|",
+                "src_vehicleId": 1333189893194708517
+            },
+            {
+                "dst_taskId": 6842793300717264780,
+                "jobStage": "|",
+                "src_vehicleId": 8972185715258724818
+            }
+        ]
+    }
+}
